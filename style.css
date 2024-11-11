@@ -1,0 +1,27 @@
+body{
+    background-color: cornsilk;
+}
+.fontu{
+    color: blue;
+    font-weight: 100;
+}
+.selektory{
+    color: orange;
+    font-weight: 100;
+}
+.lorem1{
+    font-family:"Edu AU VIC WA NT Pre";
+}
+.loremz1{
+    background-color: yellow;
+}
+.loremz2{
+    background-color: red;
+    font-style: italic;
+}
+ul li{
+    font-family: monospace;
+}
+.druheli{
+    font-size: 20px;
+}
